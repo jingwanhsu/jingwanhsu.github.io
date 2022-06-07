@@ -1,0 +1,3 @@
+[submodule "live-video-chat-replay"]
+	path = live-video-chat-replay
+	url = https://github.com/jingwanhsu/live-video-chat-replay
